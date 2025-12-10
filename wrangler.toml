@@ -1,1 +1,5 @@
+name = "github-readme-stats"
+main = "express.js"
+
 compatibility_flags = ["nodejs_compat"]
+compatibility_date = "2025-12-11"
